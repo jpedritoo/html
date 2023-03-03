@@ -1,0 +1,27 @@
+head{
+background-color: #135556;
+}
+body {
+background-color: #37C0C2;
+}
+h1 {
+color: #A9E3E4;
+padding: 60px;
+font: Nunito;
+}
+h2{
+color: #A9E3E4;
+padding: 30px;
+}
+
+.big{
+font-size: 60px;
+color: greenyellow;
+
+}
+
+.uppercase{text-transform: uppercase;}
+
+span{
+color: blueviolet;
+}
