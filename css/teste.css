@@ -1,10 +1,20 @@
 body{
+
 background-color: #37C0C2;
 }
 
 header{
+margin-left: 0px;
 background-color: #193839;
+text-align: center;
+padding: 0 0;
 }
+header img{
+	border-radius: 20px;
+		border: 20px solid white;
+
+}
+
 main {
 background-color: #37C0C2;
 }
@@ -14,11 +24,16 @@ background-color: #37C0C2;
 h1 {
 color: #A9E3E4;
 padding: 60px;
-font: Nunito;
+font-family: 'Montserrat', sans-serif;
 }
 h2{
+	font-family: 'Montserrat', sans-serif;
 color: #A9E3E4;
 padding: 30px;
+}
+
+li{
+	font-family: 'Montserrat', sans-serif;
 }
 
 .big{
@@ -32,3 +47,6 @@ color: greenyellow;
 span{
 color: blueviolet;
 }
+
+a{color: white}
+a:hover{color: white;}
