@@ -1,8 +1,15 @@
-head{
-background-color: #135556;
-}
-body {
+body{
 background-color: #37C0C2;
+}
+
+header{
+background-color: #193839;
+}
+main {
+background-color: #37C0C2;
+}
+footer {
+background-color: #37C0C2;	
 }
 h1 {
 color: #A9E3E4;
